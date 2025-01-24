@@ -1,4 +1,3 @@
-Here’s a README file suggestion for your repository:
 
 ---
 
