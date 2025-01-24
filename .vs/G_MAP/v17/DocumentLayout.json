@@ -1,0 +1,44 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BSE\\THIRD SEMESTER\\DSA PROJECT\\kruskal\\G_MAP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7ECCB70-E7CA-45AE-B41C-821C6FB1B32E}|G_MAP\\G_MAP.csproj|d:\\bse\\third semester\\dsa project\\kruskal\\g_map\\g_map\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7ECCB70-E7CA-45AE-B41C-821C6FB1B32E}|G_MAP\\G_MAP.csproj|solutionrelative:g_map\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "D:\\BSE\\THIRD SEMESTER\\DSA PROJECT\\kruskal\\G_MAP\\G_MAP\\Form2.cs",
+              "RelativeDocumentMoniker": "G_MAP\\Form2.cs",
+              "ToolTip": "D:\\BSE\\THIRD SEMESTER\\DSA PROJECT\\kruskal\\G_MAP\\G_MAP\\Form2.cs [Design]",
+              "RelativeToolTip": "G_MAP\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-24T21:24:01.861Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
